@@ -1,0 +1,5 @@
+CREATE TABLE item(
+    id INT AUTO_INCREMENT,
+    description VARCHAR(255) NOT NULL,
+    PRIMARY KEY(id)
+);
